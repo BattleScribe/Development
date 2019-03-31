@@ -4,7 +4,7 @@ Bug tracking for pre-release (alpha / beta) versions of BattleScribe. Bugs in th
 
 **Download and Changelogs:**
 * Desktop: https://github.com/BattleScribe/Pre-Release/issues/1
-* Android:
+* Android: https://github.com/BattleScribe/Pre-Release/issues/8
 * iOS:
 
 **Issue Tracker:** https://github.com/BattleScribe/Pre-Release/issues
